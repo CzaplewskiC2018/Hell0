@@ -1,0 +1,23 @@
+alert("You are now entering silly times!");
+
+var noun1 = prompt("please enter a noun.", "");
+
+var verb1 = prompt("please enter a verb.", "");
+
+var noun2 = prompt("please enter a noun.", "");
+
+var verb2 = prompt("please enter a verb.", "");
+
+var noun4 = prompt("please enter a noun.", "");
+
+var adj1 = prompt("please enter an adjcive.", "");
+
+var verb3 = prompt("please enter a verb.", "");
+
+var verb4 = prompt("please enter a verb.", "");
+
+var adj2 = prompt("please enter an adjcive.", "");
+
+var noun4 = prompt("please enter a noun.", "");
+
+document.getElementById("name").innerHTML = " "
